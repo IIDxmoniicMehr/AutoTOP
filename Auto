@@ -18,8 +18,8 @@ Moveset = {
 
 Settings  = {
 
-AutoWish = false;
-Wish = "Zenni";
+AutoWish = true;
+Wish = "Exp";
 ChargeForm = 3;
 FormType = "h";
 ExtraTime = 0;
