@@ -18,7 +18,7 @@ Moveset = {
 
 Settings  = {
 
-AutoWish = true;
+AutoWish = false;
 Wish = "Exp";
 ChargeForm = 3;
 FormType = "h";
